@@ -1,0 +1,69 @@
+body 
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    margin : 0px ; 
+    background-color:rgb(90, 191, 225);
+}
+a.LienTitre:link
+{
+    color: black;
+}
+a.LienTitre:visited
+{
+    color: red;
+}
+a.LienTitre:hover
+{
+    color: yellow;
+}
+a.LienTitre:active
+{
+    color: green;
+}
+a
+{
+    text-decoration: none;   
+}
+h3
+{
+    text-decoration:wavy;
+    color:rgb(15, 154, 15);
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+p
+{
+    color: black;
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px; 
+}
+h1
+{
+    color: rgb(222, 160, 170);
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px; 
+}
+form
+{
+    width: 500px;
+    padding: 20px;
+    background-color: #f2f2f2;
+
+}
+.btn
+{
+    background-color: #DED983;
+    font-size: 1.2em;
+    color: #345071;
+    font-family: Verdana;
+}
+h2
+{
+    color: black;
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px; 
+}
